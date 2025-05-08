@@ -22,6 +22,19 @@ The project workflow includes:
 
 6. **Deployment:** A Streamlit web app allows users to input a sequence of words and receive real-time next word predictions.
 
+## Live Demo
+
+Try the deployed app here: [Next Word Prediction Streamlit App](https://next-word-prediction-2025.streamlit.app/)
+
+Enter a sequence of words, and the model will predict the next word in real time.
+
+---
+
+### Demo Screenshot
+
+![Demo Screenshot](demo.png)
+
+
 ## Dataset
 
 - Source: *Hamlet* text file (`hamlet.txt`).
